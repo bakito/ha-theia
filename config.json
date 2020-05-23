@@ -1,0 +1,11 @@
+{
+  "name": "Theia world",
+  "version": "1",
+  "slug": "theia",
+  "description": "My first real add-on!",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
